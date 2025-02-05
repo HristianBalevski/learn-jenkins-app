@@ -14,7 +14,7 @@
                     ls -la
                     node --version
                     npm --version
-                    npm cinpm run build
+                    npm run build
                     ls -la
                 '''
             }
